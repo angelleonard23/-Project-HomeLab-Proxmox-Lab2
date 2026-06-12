@@ -821,7 +821,7 @@ Features:
 - [x] WireGuard VPN
 - [x] Wazuh SIEM
 - [x] LiteLLM + Aider Terminal Agent
-- [ ] Active Directory (DC-01)
-- [ ] Kali Linux Attacker VM
-- [ ] CI/CD Pipeline
-- [ ] CompTIA Security+ ← Current Focus
+- [x] Active Directory (DC-01)
+- [x] Kali Linux Attacker VM
+- [x] CI/CD Pipeline
+- [x] Terraform-Proxmox
